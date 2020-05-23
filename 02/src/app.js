@@ -1,0 +1,1 @@
+document.write("这是app入口！！！！！！");
